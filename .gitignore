@@ -75,3 +75,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Exported files for final version of the game
+FinalGame/*
+
+# Large assets
+Content/*
+!Content/LightsOut/*
+
